@@ -14,14 +14,14 @@
             "url": "https://vrancich.com/welcome.html",
             "title": "Who are you looking for?",
             "summary": "This is homepage of our familly. You could be intrested to learn about Maja or Moreno.for Maja's site ::click here::and for Moreno's ::click here::",
-            "content_html": "<p>This is homepage of our familly.<br><br>You could be intrested to learn about Maja or Moreno.</p>\n<ul>\n<li>for Maja's site <a href=\"#INTERNAL_LINK#/post/null\" title=\"maja.vrancich.com\">::click here::</a></li>\n<li>and for Moreno's <a href=\"#INTERNAL_LINK#/post/null\" title=\"moreno.vrancich.com\">::click here::</a></li>\n</ul>",
+            "content_html": "<p>This is homepage of our familly.<br><br>You could be intrested to learn about Maja or Moreno.</p>\n<ul>\n<li>for Maja's site <a href=\"maja.vrancich.com\" title=\"maja.vrancich.com\">::click here::</a></li>\n<li>and for Moreno's <a href=\"moreno.vrancich.com\" title=\"moreno.vrancich.com\">::click here::</a></li>\n</ul>",
             "author": {
                 "name": "Maja Vrancich"
             },
             "tags": [
             ],
             "date_published": "2020-06-15T15:10:28+02:00",
-            "date_modified": "2020-06-16T15:34:01+02:00"
+            "date_modified": "2020-06-16T15:36:54+02:00"
         }
     ]
 }
