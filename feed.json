@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Vrancich.com",
+    "description": "",
+    "home_page_url": "https://vrancich.com",
+    "feed_url": "https://vrancich.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Maja Vrancich"
+    },
+    "items": [
+        {
+            "id": "https://vrancich.com/welcome.html",
+            "url": "https://vrancich.com/welcome.html",
+            "title": "Who are you looking for?",
+            "summary": "This is homepage of our familly. You could be intrested to learn about Maja or Moreno. https://maja.vrancich.com https://moreno.vrancich.com ",
+            "content_html": "<p>This is homepage of our familly.<br><br>You could be intrested to learn about Maja or Moreno.</p>\n<ul>\n<li><br><a href=\"#INTERNAL_LINK#/post/null\">https://maja.vrancich.com</a></li>\n<li><br><a href=\"#INTERNAL_LINK#/post/null\">https://moreno.vrancich.com</a><br><br></li>\n</ul>",
+            "author": {
+                "name": "Maja Vrancich"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-15T15:10:28+02:00",
+            "date_modified": "2020-06-16T15:28:58+02:00"
+        }
+    ]
+}
