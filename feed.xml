@@ -3,7 +3,7 @@
     <title>Vrancich.com</title>
     <link href="https://vrancich.com/feed.xml" rel="self" />
     <link href="https://vrancich.com" />
-    <updated>2020-06-16T15:29:30+02:00</updated>
+    <updated>2020-06-16T15:35:08+02:00</updated>
     <author>
         <name>Maja Vrancich</name>
     </author>
@@ -17,18 +17,18 @@
         <link href="https://vrancich.com/welcome.html"/>
         <id>https://vrancich.com/welcome.html</id>
 
-        <updated>2020-06-16T15:28:58+02:00</updated>
+        <updated>2020-06-16T15:34:01+02:00</updated>
             <summary>
                 <![CDATA[
-                    This is homepage of our familly. You could be intrested to learn about Maja or Moreno. https://maja.vrancich.com https://moreno.vrancich.com 
+                    This is homepage of our familly. You could be intrested to learn about Maja or Moreno.for Maja's site ::click here::and for Moreno's ::click here::
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>This is homepage of our familly.<br><br>You could be intrested to learn about Maja or Moreno.</p>
 <ul>
-<li><br><a href="#INTERNAL_LINK#/post/null">https://maja.vrancich.com</a></li>
-<li><br><a href="#INTERNAL_LINK#/post/null">https://moreno.vrancich.com</a><br><br></li>
+<li>for Maja's site <a href="#INTERNAL_LINK#/post/null" title="maja.vrancich.com">::click here::</a></li>
+<li>and for Moreno's <a href="#INTERNAL_LINK#/post/null" title="moreno.vrancich.com">::click here::</a></li>
 </ul>
             ]]>
         </content>
