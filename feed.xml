@@ -3,12 +3,32 @@
     <title>Vrancich.com</title>
     <link href="https://vrancich.com/feed.xml" rel="self" />
     <link href="https://vrancich.com" />
-    <updated>2020-06-16T15:38:16+02:00</updated>
+    <updated>2020-11-28T22:03:13+01:00</updated>
     <author>
         <name>Maja Vrancich</name>
     </author>
     <id>https://vrancich.com</id>
 
+    <entry>
+        <title>Did you find the one you wanted?</title>
+        <author>
+            <name>Maja Vrancich</name>
+        </author>
+        <link href="https://vrancich.com/did-you-find-the-one-you-wanted.html"/>
+        <id>https://vrancich.com/did-you-find-the-one-you-wanted.html</id>
+
+        <updated>2020-11-28T22:02:51+01:00</updated>
+            <summary>
+                <![CDATA[
+                    [{"id":1555941466744,"type":"publii-paragraph","content":":)","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                [{"id":1555941466744,"type":"publii-paragraph","content":":)","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Who are you looking for?</title>
         <author>
